@@ -1,0 +1,7 @@
+C:\Users\CASPER\OneDrive\Masaüstü\ödev5\Odev09.ConsoleApp\bin\Debug\Odev09.ConsoleApp.exe.config
+C:\Users\CASPER\OneDrive\Masaüstü\ödev5\Odev09.ConsoleApp\bin\Debug\Odev09.ConsoleApp.exe
+C:\Users\CASPER\OneDrive\Masaüstü\ödev5\Odev09.ConsoleApp\bin\Debug\Odev09.ConsoleApp.pdb
+C:\Users\CASPER\OneDrive\Masaüstü\ödev5\Odev09.ConsoleApp\obj\Debug\Odev09.ConsoleApp.csproj.AssemblyReference.cache
+C:\Users\CASPER\OneDrive\Masaüstü\ödev5\Odev09.ConsoleApp\obj\Debug\Odev09.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\CASPER\OneDrive\Masaüstü\ödev5\Odev09.ConsoleApp\obj\Debug\Odev09.ConsoleApp.exe
+C:\Users\CASPER\OneDrive\Masaüstü\ödev5\Odev09.ConsoleApp\obj\Debug\Odev09.ConsoleApp.pdb
